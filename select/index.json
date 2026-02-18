@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君が通り過ぎたあとに",
+  "base_artist": "THE ALFEE",
+  "createdAt": "2026-02-18T14:02:29.917680Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が通り過ぎたあとに",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/pl_01_君が通り過ぎたあとに_THE_ALFEE.txt"
+    }
+  ]
+}
